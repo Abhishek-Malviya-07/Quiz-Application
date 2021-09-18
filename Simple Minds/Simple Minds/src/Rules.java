@@ -1,4 +1,4 @@
- // package simple.minds;
+  package simple.minds;
 
 import javax.swing.*;
 import java.awt.*;
